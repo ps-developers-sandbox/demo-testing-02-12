@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: December 3 - 4, 2025
+- Facilitator: @rajkumarinfomagnus
 
 ## Class Resources
 
